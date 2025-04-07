@@ -28,7 +28,6 @@ A simple employee attendance system initially built for the terminal using PHP, 
 
 ## 📸 Screenshots
 
-> You can add screenshots here. For example:
 
 ![form](screenshots/form.png)  
 ![table](screenshots/table.png)
